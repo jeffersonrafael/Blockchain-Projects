@@ -6,5 +6,6 @@
   - Cryptocurrency
   - NFT
   - Web3
+  - Smart contract
  
-Creating a log system with NFT
+Creating a log system with smart contract
